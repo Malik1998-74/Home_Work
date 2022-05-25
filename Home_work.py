@@ -9,7 +9,7 @@ while True:
     names = input('Введите имя: ').capitalize()
     if names == 'Валера':
         print('Валера нашелся')
-        break
+        break  # закончить цикл
     else:
         print('Имя не найдено')
 
