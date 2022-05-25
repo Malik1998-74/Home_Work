@@ -34,7 +34,7 @@
 # ask_user()
 
 # Exercise 4
-def get_answer(ask_user):
-    while True:
-        ask_user()
-get_answer()
+# def get_answer(ask_user):
+#     while True:
+#         ask_user()
+# get_answer()
